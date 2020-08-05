@@ -1,9 +1,9 @@
 +++
 author = "Woody"
 date = 2020-08-18T22:00:00Z
-description = ""
+description = "Atelier Cruseilles smoothies jus santé"
 draft = true
-image = ""
+image = "/images/atelier_juillet2020.jpg"
 image_webp = "/images/atelier_juillet2020.jpg"
 title = "Atelier jus"
 
